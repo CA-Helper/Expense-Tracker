@@ -1,0 +1,445 @@
+Type	Component	Date	Value	Year
+Income	Salary	01-01-2018	30000	2018
+Income	Salary	01-02-2018	30000	2018
+Income	Salary	01-03-2018	30000	2018
+Income	Salary	01-04-2018	30000	2018
+Income	Salary	01-05-2018	30000	2018
+Income	Salary	01-06-2018	30000	2018
+Income	Salary	01-07-2018	30000	2018
+Income	Salary	01-08-2018	30000	2018
+Income	Salary	01-09-2018	35000	2018
+Income	Salary	01-10-2018	35000	2018
+Income	Salary	01-11-2018	35000	2018
+Income	Salary	01-12-2018	35000	2018
+Income	Salary	01-01-2019	35000	2019
+Income	Salary	01-02-2019	35000	2019
+Income	Salary	01-03-2019	35000	2019
+Income	Salary	01-04-2019	35000	2019
+Income	Salary	01-05-2019	35000	2019
+Income	Salary	01-06-2019	35000	2019
+Income	Salary	01-07-2019	35000	2019
+Income	Salary	01-08-2019	35000	2019
+Income	Salary	01-09-2019	35000	2019
+Income	Salary	01-10-2019	35000	2019
+Income	Salary	01-11-2019	35000	2019
+Income	Salary	01-12-2019	35000	2019
+Income	Salary	01-01-2020	43000	2020
+Income	Salary	01-02-2020	43000	2020
+Income	Salary	01-03-2020	43000	2020
+Income	Salary	01-04-2020	43000	2020
+Income	Salary	01-05-2020	43000	2020
+Income	Salary	01-06-2020	43000	2020
+Income	Salary	01-07-2020	43000	2020
+Income	Salary	01-08-2020	43000	2020
+Income	Salary	01-09-2020	43000	2020
+Income	Salary	01-10-2020	43000	2020
+Income	Salary	01-11-2020	51500	2020
+Income	Salary	01-12-2020	51500	2020
+Income	Salary	01-01-2021	51500	2021
+Income	Source 2	01-01-2018	1000	2018
+Income	Source 2	01-02-2018	1000	2018
+Income	Source 2	01-03-2018	1000	2018
+Income	Source 2	01-04-2018	1000	2018
+Income	Source 2	01-05-2018	1000	2018
+Income	Source 2	01-06-2018	1000	2018
+Income	Source 2	01-07-2018	1000	2018
+Income	Source 2	01-08-2018	1000	2018
+Income	Source 2	01-09-2018	1000	2018
+Income	Source 2	01-10-2018	1000	2018
+Income	Source 2	01-11-2018	1000	2018
+Income	Source 2	01-12-2018	1000	2018
+Income	Source 2	01-01-2019	1000	2019
+Income	Source 2	01-02-2019	4000	2019
+Income	Source 2	01-03-2019	4000	2019
+Income	Source 2	01-04-2019	4000	2019
+Income	Source 2	01-05-2019	4000	2019
+Income	Source 2	01-06-2019	4000	2019
+Income	Source 2	01-07-2019	4000	2019
+Income	Source 2	01-08-2019	4000	2019
+Income	Source 2	01-09-2019	4000	2019
+Income	Source 2	01-10-2019	4000	2019
+Income	Source 2	01-11-2019	4000	2019
+Income	Source 2	01-12-2019	4000	2019
+Income	Source 2	01-01-2020	4000	2020
+Income	Source 2	01-02-2020	4000	2020
+Income	Source 2	01-03-2020	4000	2020
+Income	Source 2	01-04-2020	4000	2020
+Income	Source 2	01-05-2020	4000	2020
+Income	Source 2	01-06-2020	4000	2020
+Income	Source 2	01-07-2020	6000	2020
+Income	Source 2	01-08-2020	6000	2020
+Income	Source 2	01-09-2020	6000	2020
+Income	Source 2	01-10-2020	6000	2020
+Income	Source 2	01-11-2020	6000	2020
+Income	Source 2	01-12-2020	6000	2020
+Income	Source 2	01-01-2021	6000	2021
+Savings	Mutual funds	01-01-2018	5000	2018
+Savings	Mutual funds	01-02-2018	5000	2018
+Savings	Mutual funds	01-03-2018	5000	2018
+Savings	Mutual funds	01-04-2018	5000	2018
+Savings	Mutual funds	01-05-2018	5000	2018
+Savings	Mutual funds	01-06-2018	5000	2018
+Savings	Mutual funds	01-07-2018	5000	2018
+Savings	Mutual funds	01-08-2018	5000	2018
+Savings	Mutual funds	01-09-2018	5000	2018
+Savings	Mutual funds	01-10-2018	5000	2018
+Savings	Mutual funds	01-11-2018	5000	2018
+Savings	Mutual funds	01-12-2018	7000	2018
+Savings	Mutual funds	01-01-2019	7000	2019
+Savings	Mutual funds	01-02-2019	7000	2019
+Savings	Mutual funds	01-03-2019	7000	2019
+Savings	Mutual funds	01-04-2019	7000	2019
+Savings	Mutual funds	01-05-2019	7000	2019
+Savings	Mutual funds	01-06-2019	7000	2019
+Savings	Mutual funds	01-07-2019	7000	2019
+Savings	Mutual funds	01-08-2019	7000	2019
+Savings	Mutual funds	01-09-2019	7000	2019
+Savings	Mutual funds	01-10-2019	7000	2019
+Savings	Mutual funds	01-11-2019	7000	2019
+Savings	Mutual funds	01-12-2019	0	2019
+Savings	Mutual funds	01-01-2020	7000	2020
+Savings	Mutual funds	01-02-2020	7000	2020
+Savings	Mutual funds	01-03-2020	7000	2020
+Savings	Mutual funds	01-04-2020	7000	2020
+Savings	Mutual funds	01-05-2020	7000	2020
+Savings	Mutual funds	01-06-2020	7000	2020
+Savings	Mutual funds	01-07-2020	7000	2020
+Savings	Mutual funds	01-08-2020	7000	2020
+Savings	Mutual funds	01-09-2020	7000	2020
+Savings	Mutual funds	01-10-2020	7000	2020
+Savings	Mutual funds	01-11-2020	8000	2020
+Savings	Mutual funds	01-12-2020	8000	2020
+Savings	Mutual funds	01-01-2021	8000	2021
+Savings	Emergency Fund	01-01-2018	2000	2018
+Savings	Emergency Fund	01-02-2018	2000	2018
+Savings	Emergency Fund	01-03-2018	2000	2018
+Savings	Emergency Fund	01-04-2018	2000	2018
+Savings	Emergency Fund	01-05-2018	2000	2018
+Savings	Emergency Fund	01-06-2018	2000	2018
+Savings	Emergency Fund	01-07-2018	2000	2018
+Savings	Emergency Fund	01-08-2018	0	2018
+Savings	Emergency Fund	01-09-2018	0	2018
+Savings	Emergency Fund	01-10-2018	2000	2018
+Savings	Emergency Fund	01-11-2018	2000	2018
+Savings	Emergency Fund	01-12-2018	2000	2018
+Savings	Emergency Fund	01-01-2019	2000	2019
+Savings	Emergency Fund	01-02-2019	2000	2019
+Savings	Emergency Fund	01-03-2019	2000	2019
+Savings	Emergency Fund	01-04-2019	2000	2019
+Savings	Emergency Fund	01-05-2019	2000	2019
+Savings	Emergency Fund	01-06-2019	2000	2019
+Savings	Emergency Fund	01-07-2019	2000	2019
+Savings	Emergency Fund	01-08-2019	1000	2019
+Savings	Emergency Fund	01-09-2019	0	2019
+Savings	Emergency Fund	01-10-2019	0	2019
+Savings	Emergency Fund	01-11-2019	0	2019
+Savings	Emergency Fund	01-12-2019	0	2019
+Savings	Emergency Fund	01-01-2020	0	2020
+Savings	Emergency Fund	01-02-2020	0	2020
+Savings	Emergency Fund	01-03-2020	0	2020
+Savings	Emergency Fund	01-04-2020	0	2020
+Savings	Emergency Fund	01-05-2020	2000	2020
+Savings	Emergency Fund	01-06-2020	0	2020
+Savings	Emergency Fund	01-07-2020	1000	2020
+Savings	Emergency Fund	01-08-2020	1000	2020
+Savings	Emergency Fund	01-09-2020	1000	2020
+Savings	Emergency Fund	01-10-2020	1000	2020
+Savings	Emergency Fund	01-11-2020	2000	2020
+Savings	Emergency Fund	01-12-2020	1000	2020
+Savings	Emergency Fund	01-01-2021	3000	2021
+Savings	Fixed Deposit	01-01-2018	2000	2018
+Savings	Fixed Deposit	01-02-2018	2000	2018
+Savings	Fixed Deposit	01-03-2018	2000	2018
+Savings	Fixed Deposit	01-04-2018	2000	2018
+Savings	Fixed Deposit	01-05-2018	2000	2018
+Savings	Fixed Deposit	01-06-2018	2000	2018
+Savings	Fixed Deposit	01-07-2018	2000	2018
+Savings	Fixed Deposit	01-08-2018	2000	2018
+Savings	Fixed Deposit	01-09-2018	0	2018
+Savings	Fixed Deposit	01-10-2018	2000	2018
+Savings	Fixed Deposit	01-11-2018	0	2018
+Savings	Fixed Deposit	01-12-2018	0	2018
+Savings	Fixed Deposit	01-01-2019	0	2019
+Savings	Fixed Deposit	01-02-2019	2000	2019
+Savings	Fixed Deposit	01-03-2019	2000	2019
+Savings	Fixed Deposit	01-04-2019	2000	2019
+Savings	Fixed Deposit	01-05-2019	2000	2019
+Savings	Fixed Deposit	01-06-2019	1000	2019
+Savings	Fixed Deposit	01-07-2019	1000	2019
+Savings	Fixed Deposit	01-08-2019	1000	2019
+Savings	Fixed Deposit	01-09-2019	2000	2019
+Savings	Fixed Deposit	01-10-2019	0	2019
+Savings	Fixed Deposit	01-11-2019	0	2019
+Savings	Fixed Deposit	01-12-2019	0	2019
+Savings	Fixed Deposit	01-01-2020	0	2020
+Savings	Fixed Deposit	01-02-2020	0	2020
+Savings	Fixed Deposit	01-03-2020	0	2020
+Savings	Fixed Deposit	01-04-2020	0	2020
+Savings	Fixed Deposit	01-05-2020	0	2020
+Savings	Fixed Deposit	01-06-2020	2000	2020
+Savings	Fixed Deposit	01-07-2020	0	2020
+Savings	Fixed Deposit	01-08-2020	0	2020
+Savings	Fixed Deposit	01-09-2020	2000	2020
+Savings	Fixed Deposit	01-10-2020	2000	2020
+Savings	Fixed Deposit	01-11-2020	2500	2020
+Savings	Fixed Deposit	01-12-2020	2500	2020
+Savings	Fixed Deposit	01-01-2021	2500	2021
+Savings	Liquid Cash	01-01-2018	1000	2018
+Savings	Liquid Cash	01-02-2018	0	2018
+Savings	Liquid Cash	01-03-2018	1000	2018
+Savings	Liquid Cash	01-04-2018	0	2018
+Savings	Liquid Cash	01-05-2018	1000	2018
+Savings	Liquid Cash	01-06-2018	0	2018
+Savings	Liquid Cash	01-07-2018	-1000	2018
+Savings	Liquid Cash	01-08-2018	0	2018
+Savings	Liquid Cash	01-09-2018	1000	2018
+Savings	Liquid Cash	01-10-2018	500	2018
+Savings	Liquid Cash	01-11-2018	2500	2018
+Savings	Liquid Cash	01-12-2018	-1500	2018
+Savings	Liquid Cash	01-01-2019	-1000	2019
+Savings	Liquid Cash	01-02-2019	1500	2019
+Savings	Liquid Cash	01-03-2019	1500	2019
+Savings	Liquid Cash	01-04-2019	500	2019
+Savings	Liquid Cash	01-05-2019	500	2019
+Savings	Liquid Cash	01-06-2019	500	2019
+Savings	Liquid Cash	01-07-2019	0	2019
+Savings	Liquid Cash	01-08-2019	1000	2019
+Savings	Liquid Cash	01-09-2019	0	2019
+Savings	Liquid Cash	01-10-2019	1000	2019
+Savings	Liquid Cash	01-11-2019	-2000	2019
+Savings	Liquid Cash	01-12-2019	500	2019
+Savings	Liquid Cash	01-01-2020	-1500	2020
+Savings	Liquid Cash	01-02-2020	-1500	2020
+Savings	Liquid Cash	01-03-2020	0	2020
+Savings	Liquid Cash	01-04-2020	500	2020
+Savings	Liquid Cash	01-05-2020	-1500	2020
+Savings	Liquid Cash	01-06-2020	1500	2020
+Savings	Liquid Cash	01-07-2020	-1500	2020
+Savings	Liquid Cash	01-08-2020	-2000	2020
+Savings	Liquid Cash	01-09-2020	-2500	2020
+Savings	Liquid Cash	01-10-2020	-500	2020
+Savings	Liquid Cash	01-11-2020	1500	2020
+Savings	Liquid Cash	01-12-2020	500	2020
+Savings	Liquid Cash	01-01-2021	-500	2021
+Expense	House Rent	01-01-2018	10000	2018
+Expense	House Rent	01-02-2018	10000	2018
+Expense	House Rent	01-03-2018	10000	2018
+Expense	House Rent	01-04-2018	10000	2018
+Expense	House Rent	01-05-2018	10000	2018
+Expense	House Rent	01-06-2018	10000	2018
+Expense	House Rent	01-07-2018	12000	2018
+Expense	House Rent	01-08-2018	12000	2018
+Expense	House Rent	01-09-2018	12000	2018
+Expense	House Rent	01-10-2018	12000	2018
+Expense	House Rent	01-11-2018	12000	2018
+Expense	House Rent	01-12-2018	12000	2018
+Expense	House Rent	01-01-2019	12000	2019
+Expense	House Rent	01-02-2019	12000	2019
+Expense	House Rent	01-03-2019	12000	2019
+Expense	House Rent	01-04-2019	12000	2019
+Expense	House Rent	01-05-2019	12000	2019
+Expense	House Rent	01-06-2019	12000	2019
+Expense	House Rent	01-07-2019	12000	2019
+Expense	House Rent	01-08-2019	12000	2019
+Expense	House Rent	01-09-2019	12000	2019
+Expense	House Rent	01-10-2019	12000	2019
+Expense	House Rent	01-11-2019	15000	2019
+Expense	House Rent	01-12-2019	15000	2019
+Expense	House Rent	01-01-2020	15000	2020
+Expense	House Rent	01-02-2020	15000	2020
+Expense	House Rent	01-03-2020	15000	2020
+Expense	House Rent	01-04-2020	15000	2020
+Expense	House Rent	01-05-2020	15000	2020
+Expense	House Rent	01-06-2020	15000	2020
+Expense	House Rent	01-07-2020	15000	2020
+Expense	House Rent	01-08-2020	15000	2020
+Expense	House Rent	01-09-2020	15000	2020
+Expense	House Rent	01-10-2020	15000	2020
+Expense	House Rent	01-11-2020	15000	2020
+Expense	House Rent	01-12-2020	15000	2020
+Expense	House Rent	01-01-2021	16000	2021
+Expense	Groceries & Food	01-01-2018	6000	2018
+Expense	Groceries & Food	01-02-2018	6000	2018
+Expense	Groceries & Food	01-03-2018	6000	2018
+Expense	Groceries & Food	01-04-2018	6000	2018
+Expense	Groceries & Food	01-05-2018	6000	2018
+Expense	Groceries & Food	01-06-2018	6000	2018
+Expense	Groceries & Food	01-07-2018	6000	2018
+Expense	Groceries & Food	01-08-2018	6000	2018
+Expense	Groceries & Food	01-09-2018	6000	2018
+Expense	Groceries & Food	01-10-2018	6000	2018
+Expense	Groceries & Food	01-11-2018	6000	2018
+Expense	Groceries & Food	01-12-2018	8000	2018
+Expense	Groceries & Food	01-01-2019	8000	2019
+Expense	Groceries & Food	01-02-2019	7000	2019
+Expense	Groceries & Food	01-03-2019	7000	2019
+Expense	Groceries & Food	01-04-2019	7000	2019
+Expense	Groceries & Food	01-05-2019	7000	2019
+Expense	Groceries & Food	01-06-2019	7000	2019
+Expense	Groceries & Food	01-07-2019	7000	2019
+Expense	Groceries & Food	01-08-2019	7000	2019
+Expense	Groceries & Food	01-09-2019	8000	2019
+Expense	Groceries & Food	01-10-2019	8000	2019
+Expense	Groceries & Food	01-11-2019	8000	2019
+Expense	Groceries & Food	01-12-2019	10000	2019
+Expense	Groceries & Food	01-01-2020	10000	2020
+Expense	Groceries & Food	01-02-2020	10000	2020
+Expense	Groceries & Food	01-03-2020	10000	2020
+Expense	Groceries & Food	01-04-2020	8000	2020
+Expense	Groceries & Food	01-05-2020	8000	2020
+Expense	Groceries & Food	01-06-2020	8000	2020
+Expense	Groceries & Food	01-07-2020	10000	2020
+Expense	Groceries & Food	01-08-2020	10000	2020
+Expense	Groceries & Food	01-09-2020	10000	2020
+Expense	Groceries & Food	01-10-2020	8000	2020
+Expense	Groceries & Food	01-11-2020	10000	2020
+Expense	Groceries & Food	01-12-2020	10000	2020
+Expense	Groceries & Food	01-01-2021	9000	2021
+Expense	Health	01-01-2018	1000	2018
+Expense	Health	01-02-2018	1000	2018
+Expense	Health	01-03-2018	1000	2018
+Expense	Health	01-04-2018	1000	2018
+Expense	Health	01-05-2018	1000	2018
+Expense	Health	01-06-2018	1000	2018
+Expense	Health	01-07-2018	1000	2018
+Expense	Health	01-08-2018	1000	2018
+Expense	Health	01-09-2018	1000	2018
+Expense	Health	01-10-2018	1000	2018
+Expense	Health	01-11-2018	1000	2018
+Expense	Health	01-12-2018	1000	2018
+Expense	Health	01-01-2019	3000	2019
+Expense	Health	01-02-2019	1500	2019
+Expense	Health	01-03-2019	1500	2019
+Expense	Health	01-04-2019	1500	2019
+Expense	Health	01-05-2019	1500	2019
+Expense	Health	01-06-2019	1500	2019
+Expense	Health	01-07-2019	1500	2019
+Expense	Health	01-08-2019	1500	2019
+Expense	Health	01-09-2019	1500	2019
+Expense	Health	01-10-2019	1500	2019
+Expense	Health	01-11-2019	1500	2019
+Expense	Health	01-12-2019	3000	2019
+Expense	Health	01-01-2020	3000	2020
+Expense	Health	01-02-2020	3000	2020
+Expense	Health	01-03-2020	3000	2020
+Expense	Health	01-04-2020	3000	2020
+Expense	Health	01-05-2020	3000	2020
+Expense	Health	01-06-2020	3000	2020
+Expense	Health	01-07-2020	3000	2020
+Expense	Health	01-08-2020	3000	2020
+Expense	Health	01-09-2020	3000	2020
+Expense	Health	01-10-2020	3000	2020
+Expense	Health	01-11-2020	3000	2020
+Expense	Health	01-12-2020	4000	2020
+Expense	Health	01-01-2021	3000	2021
+Expense	EMIs	01-01-2018	2500	2018
+Expense	EMIs	01-02-2018	2500	2018
+Expense	EMIs	01-03-2018	2500	2018
+Expense	EMIs	01-04-2018	2500	2018
+Expense	EMIs	01-05-2018	2500	2018
+Expense	EMIs	01-06-2018	2500	2018
+Expense	EMIs	01-07-2018	2500	2018
+Expense	EMIs	01-08-2018	2500	2018
+Expense	EMIs	01-09-2018	5000	2018
+Expense	EMIs	01-10-2018	5000	2018
+Expense	EMIs	01-11-2018	5000	2018
+Expense	EMIs	01-12-2018	5000	2018
+Expense	EMIs	01-01-2019	5000	2019
+Expense	EMIs	01-02-2019	6000	2019
+Expense	EMIs	01-03-2019	6000	2019
+Expense	EMIs	01-04-2019	6000	2019
+Expense	EMIs	01-05-2019	6000	2019
+Expense	EMIs	01-06-2019	6000	2019
+Expense	EMIs	01-07-2019	7000	2019
+Expense	EMIs	01-08-2019	7000	2019
+Expense	EMIs	01-09-2019	7000	2019
+Expense	EMIs	01-10-2019	7000	2019
+Expense	EMIs	01-11-2019	7000	2019
+Expense	EMIs	01-12-2019	7000	2019
+Expense	EMIs	01-01-2020	10000	2020
+Expense	EMIs	01-02-2020	10000	2020
+Expense	EMIs	01-03-2020	10000	2020
+Expense	EMIs	01-04-2020	10000	2020
+Expense	EMIs	01-05-2020	10000	2020
+Expense	EMIs	01-06-2020	10000	2020
+Expense	EMIs	01-07-2020	10000	2020
+Expense	EMIs	01-08-2020	10000	2020
+Expense	EMIs	01-09-2020	10000	2020
+Expense	EMIs	01-10-2020	10000	2020
+Expense	EMIs	01-11-2020	12000	2020
+Expense	EMIs	01-12-2020	12000	2020
+Expense	EMIs	01-01-2021	12000	2021
+Expense	Leisure	01-01-2018	500	2018
+Expense	Leisure	01-02-2018	1500	2018
+Expense	Leisure	01-03-2018	500	2018
+Expense	Leisure	01-04-2018	1500	2018
+Expense	Leisure	01-05-2018	500	2018
+Expense	Leisure	01-06-2018	1500	2018
+Expense	Leisure	01-07-2018	500	2018
+Expense	Leisure	01-08-2018	1500	2018
+Expense	Leisure	01-09-2018	4000	2018
+Expense	Leisure	01-10-2018	1500	2018
+Expense	Leisure	01-11-2018	1500	2018
+Expense	Leisure	01-12-2018	1500	2018
+Expense	Leisure	01-01-2019	0	2019
+Expense	Leisure	01-02-2019	0	2019
+Expense	Leisure	01-03-2019	0	2019
+Expense	Leisure	01-04-2019	1000	2019
+Expense	Leisure	01-05-2019	1000	2019
+Expense	Leisure	01-06-2019	1000	2019
+Expense	Leisure	01-07-2019	1500	2019
+Expense	Leisure	01-08-2019	1500	2019
+Expense	Leisure	01-09-2019	1500	2019
+Expense	Leisure	01-10-2019	1500	2019
+Expense	Leisure	01-11-2019	1500	2019
+Expense	Leisure	01-12-2019	1500	2019
+Expense	Leisure	01-01-2020	1500	2020
+Expense	Leisure	01-02-2020	1500	2020
+Expense	Leisure	01-03-2020	1500	2020
+Expense	Leisure	01-04-2020	1500	2020
+Expense	Leisure	01-05-2020	1500	2020
+Expense	Leisure	01-06-2020	500	2020
+Expense	Leisure	01-07-2020	1500	2020
+Expense	Leisure	01-08-2020	3000	2020
+Expense	Leisure	01-09-2020	1500	2020
+Expense	Leisure	01-10-2020	1500	2020
+Expense	Leisure	01-11-2020	1500	2020
+Expense	Leisure	01-12-2020	1500	2020
+Expense	Leisure	01-01-2021	1500	2021
+Expense	Shopping	01-01-2018	1000	2018
+Expense	Shopping	01-02-2018	1000	2018
+Expense	Shopping	01-03-2018	1000	2018
+Expense	Shopping	01-04-2018	1000	2018
+Expense	Shopping	01-05-2018	1000	2018
+Expense	Shopping	01-06-2018	1000	2018
+Expense	Shopping	01-07-2018	1000	2018
+Expense	Shopping	01-08-2018	1000	2018
+Expense	Shopping	01-09-2018	2000	2018
+Expense	Shopping	01-10-2018	1000	2018
+Expense	Shopping	01-11-2018	1000	2018
+Expense	Shopping	01-12-2018	1000	2018
+Expense	Shopping	01-01-2019	0	2019
+Expense	Shopping	01-02-2019	0	2019
+Expense	Shopping	01-03-2019	0	2019
+Expense	Shopping	01-04-2019	0	2019
+Expense	Shopping	01-05-2019	0	2019
+Expense	Shopping	01-06-2019	1000	2019
+Expense	Shopping	01-07-2019	0	2019
+Expense	Shopping	01-08-2019	0	2019
+Expense	Shopping	01-09-2019	0	2019
+Expense	Shopping	01-10-2019	1000	2019
+Expense	Shopping	01-11-2019	1000	2019
+Expense	Shopping	01-12-2019	2000	2019
+Expense	Shopping	01-01-2020	2000	2020
+Expense	Shopping	01-02-2020	2000	2020
+Expense	Shopping	01-03-2020	500	2020
+Expense	Shopping	01-04-2020	2000	2020
+Expense	Shopping	01-05-2020	2000	2020
+Expense	Shopping	01-06-2020	0	2020
+Expense	Shopping	01-07-2020	3000	2020
+Expense	Shopping	01-08-2020	2000	2020
+Expense	Shopping	01-09-2020	2000	2020
+Expense	Shopping	01-10-2020	2000	2020
+Expense	Shopping	01-11-2020	2000	2020
+Expense	Shopping	01-12-2020	3000	2020
+Expense	Shopping	01-01-2021	3000	2021
