@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <title>Personal CA</title>
+</head>
+<body>
+    <div class = 'container'>
+        <h1> Expense Tracker</h1>
+
+        <form id = "expense-form">
+            <label for = "expense-type"> Expense Type:</label>
+            <select id="type">
+                <option disabled selected value="">Select type</option>
+                <option value="income">Income</option>
+                <option value="expense">Expense</option>
+                <option value = "savings">Savings</option>
+            </select>
+
+        <label for="description">Description:</label>
+        <input type="text" id="description" required placeholder="Enter description">
+
+        <label for="amount">Amount:</label>
+        <input type="number" id="amount" required placeholder="Enter amount">
+
+        <label for="date">Date:</label>
+        <input type="date" id="date" required>
+
+        <button type="submit">Add Transaction</button>
+
+    </form>\
+    
+    <div id="transactions">
+        <h2>Transactions</h2>
+        <ul id="transaction-list"></ul>
+      </div>
+
+      <div id="balance">
+        <h2>Current Balance</h2>
+        <p id="balance-amount">0</p>
+      </div>
+
+    </div>
+    
+    <section id = "monthly-summary">
+        <h2> Expenditure Summary</h2>
+    </section>
+
+    <div id = "chart-container"></div>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
